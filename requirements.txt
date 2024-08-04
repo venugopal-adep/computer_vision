@@ -4,4 +4,4 @@ ultralytics
 opencv-python-headless
 numpy
 pillow
-generativeai
+google-generativeai
